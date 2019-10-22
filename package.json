@@ -1,0 +1,20 @@
+{
+  "name": "aws-nodejs-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhduyvo/aws-nodejs-connect.git"
+  },
+  "keywords": [],
+  "author": "Duy Vo",
+  "license": "ISC",
+  "homepage": "https://github.com/thanhduyvo/aws-nodejs-connect",
+  "dependencies": {
+    "aws-sdk": "^2.522.0"
+  }
+}

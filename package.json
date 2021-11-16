@@ -15,6 +15,6 @@
   "license": "ISC",
   "homepage": "https://github.com/thanhduyvo/aws-nodejs-connect",
   "dependencies": {
-    "aws-sdk": "^2.522.0"
+    "aws-sdk": "^2.814.0"
   }
 }
